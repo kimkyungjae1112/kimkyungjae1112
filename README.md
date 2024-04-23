@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🏎🏍&fontAlign=70)
+
 
 <!--
 **kimkyungjae1112/kimkyungjae1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +18,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyungjae1112&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyungjae1112&show_icons=true&theme=radical)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🏎🏍&fontAlign=70)
+
