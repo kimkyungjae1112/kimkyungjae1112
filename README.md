@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyungjae1112&show_icons=true&theme=radical)
 
-<a href="링크"><img src="https://img.shields.io/badgeC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+![c](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
