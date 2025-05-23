@@ -1,7 +1,8 @@
 <h1>Hi there 👋</h1>
 
 <p align="left" style="font-size:24px; font-weight:bold;">💬 About Me</p>
-안녕하세요!
+
+안녕하세요! <br>
 
 개발과 게임, 컴퓨터의 모든 것을 좋아하는 게임 개발자 지망생입니다. <br>
 게임 개발을 꿈 꾸는 이유는 상상하는 모든 것을 구현해보고 싶기 때문입니다. <br>
@@ -24,6 +25,7 @@
 <br><br>
 
 <p align="left" style="font-size:24px; font-weight:bold;">📊 GitHub Analytics</p>
+
 <table align="center">
   <tr>
     <td align="center">
