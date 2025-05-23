@@ -4,12 +4,13 @@
 
 안녕하세요!
 
-개발과 게임, 컴퓨터의 모든 것을 좋아하는 게임 개발자 지망생입니다.
-제가 게임 개발을 하는 이유는 상상하던 것을 현실로 만들며, 새로운 세계관을 만들어 사람들에게 새로운 종류의 재미와 경험을 느끼게 하고 싶기 때문입니다.
+개발과 게임, 컴퓨터의 모든 것을 좋아하는 게임 개발자 지망생입니다. <br>
+게임 개발을 꿈 꾸는 이유는 상상하는 모든 것을 만들어 낼 수 있기 때문입니다. <br>
 
 - 🎓 2020.03 ~ 현재 전남대학교 소프트웨어학과 전공    
 
 ---
+<br>
 
 ## 🧰 Tech Stack
 
@@ -20,15 +21,16 @@
 </p>
 
 ---
+<br>
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=kimkyungjae1112&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide=contribs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyungjae1112&layout=compact&theme=github_dark" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimkyungjae1112&theme=github-dark" />
 </p>
 
