@@ -5,12 +5,11 @@
 안녕하세요!
 
 개발과 게임, 컴퓨터의 모든 것을 좋아하는 게임 개발자 지망생입니다. <br>
-게임 개발을 꿈 꾸는 이유는 상상하는 모든 것을 만들어 낼 수 있기 때문입니다. <br>
+게임 개발을 꿈 꾸는 이유는 상상하는 모든 것을 구현해보고 싶기 때문입니다. <br>
 
 - 🎓 2020.03 ~ 현재 전남대학교 소프트웨어학과 전공    
 
----
-<br>
+<br><br>
 
 ## 🧰 Tech Stack
 
@@ -20,8 +19,7 @@
   <img src="https://img.shields.io/badge/UnrealEngine-313131?style=flat-square&logo=unrealengine&logoColor=white"/>
 </p>
 
----
-<br>
+<br><br>
 
 ## 📊 GitHub Analytics
 
@@ -34,7 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimkyungjae1112&theme=github-dark" />
 </p>
 
----
+<br><br>
 
 <!-- 방문자 수 히트 카운터 -->
 <p align="center">
