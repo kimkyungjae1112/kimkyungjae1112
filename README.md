@@ -1,6 +1,5 @@
 <h1>Hi there 👋</h1>
 
-<p align="left" style="font-size:24px; font-weight:bold;">💬 About Me</p>
 
 안녕하세요! <br>
 
@@ -14,7 +13,7 @@
 
 <br><br>
 
-<p align="left" style="font-size:24px; font-weight:bold;">🧰 Tech Stack</p>
+## 🧰 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -24,7 +23,7 @@
 
 <br><br>
 
-<p align="left" style="font-size:24px; font-weight:bold;">📊 GitHub Analytics</p>
+## 📊 GitHub Analytics
 
 <table align="center">
   <tr>
