@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 
 ## 💬 About Me
 
@@ -25,14 +25,21 @@
 
 ## 📊 GitHub Analytics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kimkyungjae1112&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyungjae1112&layout=compact&theme=github_dark" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimkyungjae1112&theme=github-dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=kimkyungjae1112&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide=contribs" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyungjae1112&layout=compact&theme=github_dark" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimkyungjae1112&theme=github-dark" />
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
