@@ -1,7 +1,6 @@
 <h1>Hi there 👋</h1>
 
-💬 About Me
-
+<p align="left" style="font-size:24px; font-weight:bold;">💬 About Me</p>
 안녕하세요!
 
 개발과 게임, 컴퓨터의 모든 것을 좋아하는 게임 개발자 지망생입니다. <br>
@@ -14,7 +13,7 @@
 
 <br><br>
 
-🧰 Tech Stack
+<p align="left" style="font-size:24px; font-weight:bold;">🧰 Tech Stack</p>
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -24,8 +23,7 @@
 
 <br><br>
 
-📊 GitHub Analytics
-
+<p align="left" style="font-size:24px; font-weight:bold;">📊 GitHub Analytics</p>
 <table align="center">
   <tr>
     <td align="center">
