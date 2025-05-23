@@ -9,11 +9,11 @@
 
 <br>
 
-- 🎓 2020.03 ~ 현재 전남대학교 소프트웨어학과 전공    
+- 2020.03 ~ 현재 전남대학교 소프트웨어학과 전공    
 
 <br><br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 <br><br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <table align="center">
   <tr>
