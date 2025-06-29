@@ -21,6 +21,38 @@
 
 <br><br>
 
+## 공부해왔던 것
+
+- C++ 언어
+  - [C++ 책 독서](https://github.com/kimkyungjae1112/Cpp17)
+  - [C++ 연습-1](https://github.com/kimkyungjae1112/MyC-Code)
+  - [C++ 연습-2](https://github.com/kimkyungjae1112/Cpp_Class)
+  - [C++ TEXT Game](https://github.com/kimkyungjae1112/TEXTRPG)
+  - [C++로 자료구조 구현](https://github.com/kimkyungjae1112/DataStruct)
+
+<br>
+
+- 그래픽스
+  - [RayTracing](https://github.com/kimkyungjae1112/Graphics)
+  - [OpenGL](https://github.com/kimkyungjae1112/Graphics_with_OpenGL)
+
+<br>
+
+- 언리얼 엔진
+  - 프로젝트
+    - [ZeroSector](https://github.com/SingABrro/ZeroSectorProject)
+    - [No-Face](https://github.com/kimkyungjae1112/No-Face)
+    - [Project_N](https://github.com/kimkyungjae1112/Project_N)
+    - [Throne](https://github.com/kimkyungjae1112/Throne)
+
+  - 연습 과정
+    - [첫 게임 제작](https://github.com/kimkyungjae1112/RoomRPG)
+    - [비동기 로딩 연습](https://github.com/kimkyungjae1112/URProgrammingPractice/tree/main/Source/ProgrammingPractice/CodeStructurePractice)
+    - [아군 조종 및 여러 게임 모드 설정](https://github.com/kimkyungjae1112/RoseWar)
+    - [상태별 고유 공격 패턴 구현](https://github.com/kimkyungjae1112/Ninza)
+
+<br><br>
+
 ## GitHub Analytics
 
 <table align="center">
