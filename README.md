@@ -23,6 +23,8 @@
 
 ## 공부해왔던 것
 
+[요약본](https://kimkyungjae1112.github.io/ProfilePage/)
+
 - C++ 언어
   - [C++ 책 독서](https://github.com/kimkyungjae1112/Cpp17)
   - [C++ 연습-1](https://github.com/kimkyungjae1112/MyC-Code)
