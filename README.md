@@ -1,13 +1,16 @@
-<h1> 안녕하세요! </h1>
-
-
-안녕하세요! <br>
+<h1> 안녕하세요 </h1>
 
 개발과 게임, 컴퓨터의 모든 것을 좋아하는 게임 개발자 지망생입니다. <br>
+C++, 언리얼 엔진을 이용해 게임을 제작하고 있습니다. <br> <br>
 
-<br>
 
-- 2020.03 ~ 현재 전남대학교 소프트웨어학과 전공    
+<h3>프로젝트 리스트 : https://kimkyungjae1112.github.io/ProfilePage/</h3>
+
+<br><br>
+
+## Education
+2020.03 ~ 현재 전남대학교 소프트웨어학과 전공 <br>
+2026.02 졸업 예정
 
 <br><br>
 
@@ -22,8 +25,6 @@
 <br><br>
 
 ## 공부해왔던 것
-
-[요약본](https://kimkyungjae1112.github.io/ProfilePage/)
 
 - C++ 언어
   - [C++ 책 독서](https://github.com/kimkyungjae1112/Cpp17)
