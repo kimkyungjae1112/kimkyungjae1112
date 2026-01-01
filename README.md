@@ -1,10 +1,3 @@
-<h1> 안녕하세요 </h1>
-
-
-<h3>프로젝트 리스트 : https://kimkyungjae1112.github.io/ProfilePage/</h3>
-
-<br><br>
-
 ## Education
 2020.03 ~ 현재 전남대학교 소프트웨어학과 전공 <br>
 2026.02 졸업 예정
